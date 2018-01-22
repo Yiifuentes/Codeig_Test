@@ -1,0 +1,5 @@
+[08-Aug-2017 11:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'mundo' (T_STRING) in /home/cazatuit/public_html/fsf/heaven1/application/controllers/panel/GestPanel.php on line 16
+[08-Aug-2017 17:03:36 America/Chicago] PHP Fatal error:  Call to undefined function wp_head() in /home/cazatuit/public_html/fsf/heaven1/application/views/layouts/header.php on line 7
+[08-Aug-2017 17:03:37 America/Chicago] PHP Fatal error:  Call to undefined function wp_head() in /home/cazatuit/public_html/fsf/heaven1/application/views/layouts/header.php on line 7
+[08-Aug-2017 17:03:43 America/Chicago] PHP Fatal error:  Call to undefined function wp_head() in /home/cazatuit/public_html/fsf/heaven1/application/views/layouts/header.php on line 7
+[08-Aug-2017 18:04:13 America/Chicago] PHP Fatal error:  Call to undefined function wp_head() in /home/cazatuit/public_html/fsf/heaven1/application/views/layouts/header.php on line 7
