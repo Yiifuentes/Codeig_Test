@@ -10,17 +10,17 @@
 <div id="EMP_listado">
 	<h1 class="title-page">Listado de empleados</h1>
 	
-<!--	<table class="table table-bordered table-general" id="data-table" width="100%">-->
-<!--		<thead>-->
-<!--		<th>Foto de perfil</th>-->
-<!--		<th>Nombre</th>-->
-<!--		<th>Correo</th>-->
-<!--		<th>Contraseña</th>-->
-<!--		<th>Acción</th>-->
-<!--		</thead>-->
-<!--		<tbody id="popularTabla">-->
-<!---->
-<!-- 		</tbody>-->
+	<table class="table table-bordered table-general" id="data-table" width="100%">
+		<thead>
+		<th>Foto de perfil</th>
+		<th>Nombre</th>
+		<th>Correo</th>
+		<th>Contraseña</th>
+		<th>Acción</th>
+		</thead>
+		<tbody id="popularTabla">
+
+ 		</tbody>
 <!--	</table>-->
 
 

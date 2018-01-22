@@ -116,8 +116,8 @@
 				}
 			}
 
-//       $resultado=$this->Formulario->publicar_upload_archivos($infoImagenAfterUp['upload_data']['file_name']);
-//      return returnJson(true,$infoImagenAfterUp);
+       $resultado=$this->Formulario->publicar_upload_archivos($infoImagenAfterUp['upload_data']['file_name']);
+      return returnJson(true,$infoImagenAfterUp);
 
 			$nombreArchivo=$infoImagenAfterUp['upload_data']['file_name'];
 			$respuesta['nombreArchivo']=$nombreArchivo;
